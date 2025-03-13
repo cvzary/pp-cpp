@@ -1,0 +1,1 @@
+if(even_idx < odd_idx) my_swap(arr[even_idx], arr[odd_idx]);

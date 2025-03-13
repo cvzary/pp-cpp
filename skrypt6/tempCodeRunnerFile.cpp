@@ -1,0 +1,1 @@
+"Ala ma 5 kotow, 3 psy i 19 myszek";
